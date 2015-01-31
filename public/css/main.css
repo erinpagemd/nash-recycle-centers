@@ -1,36 +1,30 @@
-
-
 body {
-  background-color: #3D7A46;
-}
+  background-color: #3D7A46; }
 
 h1 {
   color: #ffffff;
   font-size: 300%;
-  text-align: center;
-}
+  text-align: center; }
 
 .facility {
   padding: 1%;
   margin: 5%;
   border: 2px solid black;
-  background-color: #C9F2CF;
-}
+  background-color: #C9F2CF; }
 
 .facilityName {
   font-size: 150%;
   text-align: center;
-  margin: 1%;
-}
+  margin: 1%; }
 
 .facilityAddress {
-  text-align: center;
-}
+  text-align: center; }
 
 .weekDay {
   border: 2px solid green;
   display: inline-block;
   margin: 1%;
   padding: 1%;
-  text-align: center;
-}
+  text-align: center; }
+
+/*# sourceMappingURL=main.css.map */
